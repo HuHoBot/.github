@@ -1,12 +1,42 @@
-## Hi there 👋
+# HuHoBot
+新一代Minecraft服务器管理机器人解决方案，突破传统机器人框架限制，提供更安全稳定的交互体验。
 
-<!--
+## 🌟 核心优势
 
-**Here are some ideas to get you started:**
+| 特性     | 传统方案             | HuHoBot           |
+|--------|------------------|-------------------|
+| 账号安全   | ❌ 需要实体QQ号，存在封号风险 | ✅ 无QQ第三方客户端依赖，零风控 |
+| 部署复杂度  | ❌ 需搭建完整机器人框架     | ✅ 即装即用，一键绑定       |
+| 服务器兼容性 | ❌ 部分面板服不支持       | ✅ 全平台兼容，有网即用      |
+| 协议更新影响 | ❌ 需要频繁适配新协议      | ✅ 协议无关设计，相对稳定     |
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 功能特性
+
+### 核心功能
+
+- **无缝绑定**：通过WebSocket实现服务器与控制端即时绑定
+- **智能风控规避**：基于事件驱动的非侵入式通信协议
+
+### 功能列表
+
+<details>
+<summary>📜 点我查看</summary>
+
+| 命令     | 描述             |
+|--------|----------------|
+| /添加白名单 | 向服务器内添加一个白名单   |
+| /删除白名单 | 向服务器内删除一个白名单   |
+| /绑定    | 绑定服务器          |
+| /设置名称  | 设置自己在本群群服互通的名称 |
+| /发信息   | 群服互通向服务器内发送消息  |
+| /执行命令  | 向服务器发送执行命令的请求  |
+| /查白名单  | 查询服务器内置白名单     |
+| /查在线   | 查询服务器在线名单      |
+| /在线服务器 | 查询在线服务器        |
+| /执行    | 执行自定义指令        |
+| /管理员执行 | 以管理员身份运行自定义内容  |
+
+</details>
+
+## 📞交流群
+[点我加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=N6tVRxGR8sDwYHBx9YgAhkqRTp1gseyk&authKey=M7Fd3Op6nHjXjSXefBtHBPqIq2wtX8AfufZor9DrfRrJkhyS2rohkt7iuOSwbtn8&noverify=0&group_code=1005746321)
